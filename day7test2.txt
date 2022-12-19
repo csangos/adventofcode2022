@@ -1,0 +1,21 @@
+$ cd /
+$ ls
+dir bbsmm
+dir cfvhc
+22983 dpvmzlv
+dir fptlqh
+290097 fzwrr.ndp
+dir hvwdzbsw
+dir nlm
+57046 pct.bbd
+208565 qld.mms
+261556 wcfvpmz
+$ cd bbsmm
+$ ls
+dir bbsmm
+238522 hmjvg.pfn
+228873 nvvsml.bcg
+dir rwhffw
+dir sgbnzbqt
+$ cd ..
+$ cd cfvhc
